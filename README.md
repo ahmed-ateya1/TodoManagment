@@ -67,12 +67,12 @@ The **Todo Management Application** is a task management tool that allows users 
 │   ├── Migrations
 │   ├── Repositories
 │   └── Configuration
+├── docker-compose.yml
 ├── frontend
 │   ├── index.html
 │   ├── CSS
 │   ├── js
 │   └── Dockerfile
-├── docker-compose.yml
 └── README.md
 ```
 
