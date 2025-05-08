@@ -126,7 +126,7 @@ The **Todo Management Application** is a task management tool that allows users 
 1. **Clone the repository** (if not already done):
 
    ```bash
-   git clone https://github.com/ahmed-ateya1/Todo-Management.git
+   git clone https://github.com/ahmed-ateya1/TodoManagement.git
    cd TodoManagement
    ```
 
