@@ -26,7 +26,7 @@ services:
     volumes:
       - todo_data:/var/opt/mssql
   frontend:
-    image: frontend:latest
+    image: ahmedateya/frontend:latest
     ports:
       - "3000:80"
     depends_on:
