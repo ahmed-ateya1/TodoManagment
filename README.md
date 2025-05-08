@@ -177,6 +177,9 @@ The **Todo Management Application** is a task management tool that allows users 
      ```
 
 ---
+### Challenges Faced
+- Integrating frontend with the API required handling CORS issues.
+- Ensuring smooth database migrations with Docker.
 
 ## 📝 Notes
 
