@@ -1,6 +1,6 @@
 # TodoManagement Application
 
-A simple and clean Todo Management API built with ASP.NET Core, following Domain-Driven Design (DDD) principles, and leveraging the ABP Framework. The application includes a frontend built with Bootstrap for managing todos.
+A simple and clean Todo Management API built with ASP.NET Core, following Domain-Driven Design (DDD) principles. The application includes a frontend built with Bootstrap for managing todos.
 
 ---
 
