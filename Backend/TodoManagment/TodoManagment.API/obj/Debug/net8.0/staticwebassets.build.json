@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "oDReEFyCvUFxFpvPko0zbIVnv9+OHb+XSn4VfHnKsl4=",
+  "Source": "TodoManagment.API",
+  "BasePath": "_content/TodoManagment.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TodoManagment.API\\wwwroot",
+      "Source": "TodoManagment.API",
+      "ContentRoot": "C:\\Todo-Managment\\Backend\\TodoManagment\\TodoManagment.API\\wwwroot\\",
+      "BasePath": "_content/TodoManagment.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

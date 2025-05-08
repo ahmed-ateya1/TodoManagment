@@ -1,0 +1,40 @@
+services:
+  todomanagment:
+    image: ${DOCKER_REGISTRY-}todomanagmentapi
+    build:
+      context: .
+      dockerfile: TodoManagment.API/Dockerfile
+    ports:
+     - "8080:8080"
+    environment:
+      - MSSQL_SERVER=todo-db
+      - MSSQL_DB=Todo-DB
+      - MSSQL_PASSWORD=AhmedAteya12348@#
+    networks:
+      - todo-network
+    depends_on:
+      - todo-db
+  todo-db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    ports:
+      - "1433:1433"
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=AhmedAteya12348@#
+    networks:
+      - todo-network
+    volumes:
+      - todo_data:/var/opt/mssql
+  frontend:
+    image: frontend:latest
+    ports:
+      - "3000:80"
+    depends_on:
+      - todomanagment
+    networks:
+      - todo-network
+networks:
+      todo-network:
+        driver: bridge
+volumes:
+  todo_data:

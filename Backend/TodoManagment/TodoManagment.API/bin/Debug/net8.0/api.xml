@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TodoManagment.API</name>
+    </assembly>
+    <members>
+        <member name="T:TodoManagment.API.Controllers.TodoController">
+            <summary>
+            Controller for managing Todo items.
+            </summary>
+        </member>
+        <member name="M:TodoManagment.API.Controllers.TodoController.#ctor(TodoManagment.Core.ServiceContract.ITodoService,Microsoft.Extensions.Logging.ILogger{TodoManagment.API.Controllers.TodoController})">
+            <summary>
+            Initializes a new instance of the <see cref="T:TodoManagment.API.Controllers.TodoController"/> class.
+            </summary>
+            <param name="todoService"></param>
+            <param name="logger"></param>
+        </member>
+        <member name="M:TodoManagment.API.Controllers.TodoController.AddTodo(TodoManagment.Core.Dtos.TodoDto.TodoAddRequest)">
+            <summary>
+            Adds a new Todo item to the system.
+            </summary>
+            <param name="request">The request containing Todo details to add, including Title, Description, Priority (enum <see cref="T:TodoManagment.Core.Helper.TodoPriority"/> with values Low, Medium, High), and optional DueDate.</param>
+            <returns>An <see cref="T:TodoManagment.Core.Dtos.ApiResponse"/> indicating the result of the operation.</returns>
+            <response code="201">Todo created successfully.</response>
+            <response code="400">Todo creation failed.</response>
+        </member>
+        <member name="M:TodoManagment.API.Controllers.TodoController.UpdateTodo(TodoManagment.Core.Dtos.TodoDto.TodoUpdateRequest)">
+            <summary>
+            Updates an existing Todo item.
+            </summary>
+            <param name="request">The request containing updated Todo details, including Id, Title, Description, Status (enum <see cref="T:TodoManagment.Core.Helper.TodoStatus"/> with values e.g., NotStarted, InProgress, Completed), Priority (enum <see cref="T:TodoManagment.Core.Helper.TodoPriority"/> with values Low, Medium, High), and optional DueDate.</param>
+            <returns>An <see cref="T:TodoManagment.Core.Dtos.ApiResponse"/> indicating the result of the operation.</returns>
+            <response code="200">Todo updated successfully.</response>
+            <response code="400">Todo update failed.</response>
+        </member>
+        <member name="M:TodoManagment.API.Controllers.TodoController.DeleteTodo(System.Guid)">
+            <summary>
+            Deletes a Todo item by its ID.
+            </summary>
+            <param name="id">The ID of the Todo item to delete.</param>
+            <returns>An <see cref="T:TodoManagment.Core.Dtos.ApiResponse"/> indicating the result of the operation.</returns>
+            <response code="200">Todo deleted successfully.</response>
+            <response code="404">Todo not found.</response>
+        </member>
+        <member name="M:TodoManagment.API.Controllers.TodoController.GetTodoById(System.Guid)">
+            <summary>
+            Retrieves a Todo item by its ID.
+            </summary>
+            <param name="id">The ID of the Todo item to retrieve.</param>
+            <returns>An <see cref="T:TodoManagment.Core.Dtos.ApiResponse"/> containing the Todo item details, including Priority (enum <see cref="T:TodoManagment.Core.Helper.TodoPriority"/>) and Status (enum <see cref="T:TodoManagment.Core.Helper.TodoStatus"/>).</returns>
+            <response code="200">Todo fetched successfully.</response>
+            <response code="404">Todo not found.</response>
+        </member>
+        <member name="M:TodoManagment.API.Controllers.TodoController.GetAllTodos(PaginationDto)">
+            <summary>
+            Retrieves all Todo items with optional filtering and pagination.
+            </summary>
+            <param name="pagination">
+            The pagination and filtering parameters:
+            <list type="bullet">
+            <item><description><b>PageNumber</b>: The page number for pagination.</description></item>
+            <item><description><b>PageSize</b>: The number of items per page.</description></item>
+            <item><description><b>Status</b>: Optional filter by Todo status (<see cref="T:TodoManagment.Core.Helper.TodoStatus"/>).</description></item>
+            <item><description><b>Priority</b>: Optional filter by Todo priority (<see cref="T:TodoManagment.Core.Helper.TodoPriority"/>).</description></item>
+            <item><description><b>DueDateFrom</b>: Optional filter to include Todos due on or after this date.</description></item>
+            <item><description><b>DueDateTo</b>: Optional filter to include Todos due on or before this date.</description></item>
+            </list>
+            </param>
+            <returns>
+            An <see cref="T:TodoManagment.Core.Dtos.ApiResponse"/> containing a filtered and paginated list of Todo items,
+            each including properties like Title, Description, DueDate, Priority, and Status.
+            </returns>
+            <response code="200">Todos fetched successfully.</response>
+            <response code="404">No Todos found matching the given filters.</response>
+        </member>
+        <member name="M:TodoManagment.API.Controllers.TodoController.GetTodosByTitle(System.String,PaginationDto)">
+            <summary>
+            Retrieves all Todo items that contain the specified title text, with optional pagination.
+            </summary>
+            <param name="title">The title text to search for (case-insensitive).</param>
+            <param name="pagination">
+            The pagination parameters:
+            <list type="bullet">
+            <item><description><b>PageNumber</b>: The page number for pagination.</description></item>
+            <item><description><b>PageSize</b>: The number of items per page.</description></item>
+            </list>
+            </param>
+            <returns>
+            An <see cref="T:TodoManagment.Core.Dtos.ApiResponse"/> containing a list of matching Todo items, or a not found response if none match.
+            </returns>
+            <response code="200">Todos with the specified title were fetched successfully.</response>
+            <response code="404">No Todos found with the specified title.</response>
+        </member>
+        <member name="M:TodoManagment.API.Controllers.TodoController.GetTodosByDescription(System.String,PaginationDto)">
+            <summary>
+            Retrieves all Todo items that contain the specified description text, with optional pagination.
+            </summary>
+            <param name="description">The description text to search for (case-insensitive).</param>
+            <param name="pagination">
+            The pagination parameters:
+            <list type="bullet">
+            <item><description><b>PageNumber</b>: The page number for pagination.</description></item>
+            <item><description><b>PageSize</b>: The number of items per page.</description></item>
+            </list>
+            </param>
+            <returns>
+            An <see cref="T:TodoManagment.Core.Dtos.ApiResponse"/> containing a list of matching Todo items, or a not found response if none match.
+            </returns>
+            <response code="200">Todos with the specified description were fetched successfully.</response>
+            <response code="404">No Todos found with the specified description.</response>
+        </member>
+        <member name="M:TodoManagment.API.Controllers.TodoController.MarkTodoComplete(System.Guid)">
+            <summary>
+            Marks a Todo item as complete.
+            </summary>
+            <param name="id">The ID of the Todo item to mark as complete.</param>
+            <returns>An <see cref="T:TodoManagment.Core.Dtos.ApiResponse"/> indicating the result of the operation, updating Status to Completed (enum <see cref="T:TodoManagment.Core.Helper.TodoStatus"/>).</returns>
+            <response code="200">Todo marked as complete successfully.</response>
+            <response code="404">Failed to mark Todo as complete.</response>
+        </member>
+    </members>
+</doc>

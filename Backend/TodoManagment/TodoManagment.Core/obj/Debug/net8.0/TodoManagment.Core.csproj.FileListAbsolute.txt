@@ -1,0 +1,29 @@
+C:\.NET Project\TodoManagment\TodoManagment.Core\bin\Debug\net8.0\TodoManagment.Core.deps.json
+C:\.NET Project\TodoManagment\TodoManagment.Core\bin\Debug\net8.0\TodoManagment.Core.runtimeconfig.json
+C:\.NET Project\TodoManagment\TodoManagment.Core\bin\Debug\net8.0\TodoManagment.Core.dll
+C:\.NET Project\TodoManagment\TodoManagment.Core\bin\Debug\net8.0\TodoManagment.Core.pdb
+C:\.NET Project\TodoManagment\TodoManagment.Core\obj\Debug\net8.0\TodoManagment.Core.csproj.AssemblyReference.cache
+C:\.NET Project\TodoManagment\TodoManagment.Core\obj\Debug\net8.0\TodoManagment.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET Project\TodoManagment\TodoManagment.Core\obj\Debug\net8.0\TodoManagment.Core.AssemblyInfoInputs.cache
+C:\.NET Project\TodoManagment\TodoManagment.Core\obj\Debug\net8.0\TodoManagment.Core.AssemblyInfo.cs
+C:\.NET Project\TodoManagment\TodoManagment.Core\obj\Debug\net8.0\TodoManagment.Core.csproj.CoreCompileInputs.cache
+C:\.NET Project\TodoManagment\TodoManagment.Core\obj\Debug\net8.0\TodoManagment.Core.dll
+C:\.NET Project\TodoManagment\TodoManagment.Core\obj\Debug\net8.0\refint\TodoManagment.Core.dll
+C:\.NET Project\TodoManagment\TodoManagment.Core\obj\Debug\net8.0\TodoManagment.Core.pdb
+C:\.NET Project\TodoManagment\TodoManagment.Core\obj\Debug\net8.0\TodoManagment.Core.genruntimeconfig.cache
+C:\.NET Project\TodoManagment\TodoManagment.Core\obj\Debug\net8.0\ref\TodoManagment.Core.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Core\bin\Debug\net8.0\TodoManagment.Core.deps.json
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Core\bin\Debug\net8.0\TodoManagment.Core.runtimeconfig.json
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Core\bin\Debug\net8.0\TodoManagment.Core.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Core\bin\Debug\net8.0\TodoManagment.Core.pdb
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Core\obj\Debug\net8.0\TodoManagment.Core.csproj.AssemblyReference.cache
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Core\obj\Debug\net8.0\TodoManagment.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Core\obj\Debug\net8.0\TodoManagment.Core.AssemblyInfoInputs.cache
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Core\obj\Debug\net8.0\TodoManagment.Core.AssemblyInfo.cs
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Core\obj\Debug\net8.0\TodoManagment.Core.csproj.CoreCompileInputs.cache
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Core\obj\Debug\net8.0\TodoManagment.Core.sourcelink.json
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Core\obj\Debug\net8.0\TodoManagment.Core.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Core\obj\Debug\net8.0\refint\TodoManagment.Core.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Core\obj\Debug\net8.0\TodoManagment.Core.pdb
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Core\obj\Debug\net8.0\TodoManagment.Core.genruntimeconfig.cache
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Core\obj\Debug\net8.0\ref\TodoManagment.Core.dll

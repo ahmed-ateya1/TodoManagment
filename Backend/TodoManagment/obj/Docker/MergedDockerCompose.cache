@@ -1,0 +1,93 @@
+name: dockercompose2956374191161552135
+services:
+  frontend:
+    depends_on:
+      todomanagment:
+        condition: service_started
+        required: true
+    image: frontend:latest
+    networks:
+      todo-network: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "3000"
+        protocol: tcp
+  todo-db:
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: AhmedAteya12348@#
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    networks:
+      todo-network: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "1433"
+        protocol: tcp
+    volumes:
+      - type: volume
+        source: todo_data
+        target: /var/opt/mssql
+        volume: {}
+  todomanagment:
+    build:
+      context: C:\Todo-Managment\Backend\TodoManagment
+      dockerfile: TodoManagment.API/Dockerfile
+    depends_on:
+      todo-db:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+      MSSQL_DB: Todo-DB
+      MSSQL_PASSWORD: AhmedAteya12348@#
+      MSSQL_SERVER: todo-db
+    image: todomanagmentapi
+    networks:
+      todo-network: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "8080"
+        protocol: tcp
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\Eng Ahmed Atya\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Eng Ahmed Atya\AppData\Roaming/Microsoft/UserSecrets
+        target: /root/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Eng Ahmed Atya\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Eng Ahmed Atya\AppData\Roaming/ASP.NET/Https
+        target: /root/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+networks:
+  todo-network:
+    name: dockercompose2956374191161552135_todo-network
+    driver: bridge
+volumes:
+  todo_data:
+    name: dockercompose2956374191161552135_todo_data

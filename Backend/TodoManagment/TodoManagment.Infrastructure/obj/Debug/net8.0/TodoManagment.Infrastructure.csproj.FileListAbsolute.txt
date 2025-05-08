@@ -1,0 +1,35 @@
+C:\.NET Project\TodoManagment\TodoManagment.Infrastructure\bin\Debug\net8.0\TodoManagment.Infrastructure.deps.json
+C:\.NET Project\TodoManagment\TodoManagment.Infrastructure\bin\Debug\net8.0\TodoManagment.Infrastructure.runtimeconfig.json
+C:\.NET Project\TodoManagment\TodoManagment.Infrastructure\bin\Debug\net8.0\TodoManagment.Infrastructure.dll
+C:\.NET Project\TodoManagment\TodoManagment.Infrastructure\bin\Debug\net8.0\TodoManagment.Infrastructure.pdb
+C:\.NET Project\TodoManagment\TodoManagment.Infrastructure\bin\Debug\net8.0\TodoManagment.Core.dll
+C:\.NET Project\TodoManagment\TodoManagment.Infrastructure\bin\Debug\net8.0\TodoManagment.Core.pdb
+C:\.NET Project\TodoManagment\TodoManagment.Infrastructure\obj\Debug\net8.0\TodoManagment.Infrastructure.csproj.AssemblyReference.cache
+C:\.NET Project\TodoManagment\TodoManagment.Infrastructure\obj\Debug\net8.0\TodoManagment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET Project\TodoManagment\TodoManagment.Infrastructure\obj\Debug\net8.0\TodoManagment.Infrastructure.AssemblyInfoInputs.cache
+C:\.NET Project\TodoManagment\TodoManagment.Infrastructure\obj\Debug\net8.0\TodoManagment.Infrastructure.AssemblyInfo.cs
+C:\.NET Project\TodoManagment\TodoManagment.Infrastructure\obj\Debug\net8.0\TodoManagment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\.NET Project\TodoManagment\TodoManagment.Infrastructure\obj\Debug\net8.0\TodoMana.DF9F8EDE.Up2Date
+C:\.NET Project\TodoManagment\TodoManagment.Infrastructure\obj\Debug\net8.0\TodoManagment.Infrastructure.dll
+C:\.NET Project\TodoManagment\TodoManagment.Infrastructure\obj\Debug\net8.0\refint\TodoManagment.Infrastructure.dll
+C:\.NET Project\TodoManagment\TodoManagment.Infrastructure\obj\Debug\net8.0\TodoManagment.Infrastructure.pdb
+C:\.NET Project\TodoManagment\TodoManagment.Infrastructure\obj\Debug\net8.0\TodoManagment.Infrastructure.genruntimeconfig.cache
+C:\.NET Project\TodoManagment\TodoManagment.Infrastructure\obj\Debug\net8.0\ref\TodoManagment.Infrastructure.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Infrastructure\bin\Debug\net8.0\TodoManagment.Infrastructure.deps.json
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Infrastructure\bin\Debug\net8.0\TodoManagment.Infrastructure.runtimeconfig.json
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Infrastructure\bin\Debug\net8.0\TodoManagment.Infrastructure.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Infrastructure\bin\Debug\net8.0\TodoManagment.Infrastructure.pdb
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Infrastructure\bin\Debug\net8.0\TodoManagment.Core.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Infrastructure\bin\Debug\net8.0\TodoManagment.Core.pdb
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Infrastructure\obj\Debug\net8.0\TodoManagment.Infrastructure.csproj.AssemblyReference.cache
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Infrastructure\obj\Debug\net8.0\TodoManagment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Infrastructure\obj\Debug\net8.0\TodoManagment.Infrastructure.AssemblyInfoInputs.cache
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Infrastructure\obj\Debug\net8.0\TodoManagment.Infrastructure.AssemblyInfo.cs
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Infrastructure\obj\Debug\net8.0\TodoManagment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Infrastructure\obj\Debug\net8.0\TodoManagment.Infrastructure.sourcelink.json
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Infrastructure\obj\Debug\net8.0\TodoMana.DF9F8EDE.Up2Date
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Infrastructure\obj\Debug\net8.0\TodoManagment.Infrastructure.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Infrastructure\obj\Debug\net8.0\refint\TodoManagment.Infrastructure.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Infrastructure\obj\Debug\net8.0\TodoManagment.Infrastructure.pdb
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Infrastructure\obj\Debug\net8.0\TodoManagment.Infrastructure.genruntimeconfig.cache
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.Infrastructure\obj\Debug\net8.0\ref\TodoManagment.Infrastructure.dll

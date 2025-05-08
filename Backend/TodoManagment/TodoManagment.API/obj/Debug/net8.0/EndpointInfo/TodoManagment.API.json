@@ -1,0 +1,712 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Todo Managment",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/Todo/addTodo": {
+      "post": {
+        "tags": [
+          "Todo"
+        ],
+        "summary": "Adds a new Todo item to the system.",
+        "requestBody": {
+          "description": "The request containing Todo details to add, including Title, Description, Priority (enum TodoManagment.Core.Helper.TodoPriority with values Low, Medium, High), and optional DueDate.",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TodoAddRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TodoAddRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TodoAddRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiResponse"
+                }
+              }
+            }
+          },
+          "201": {
+            "description": "Todo created successfully."
+          },
+          "400": {
+            "description": "Todo creation failed."
+          }
+        }
+      }
+    },
+    "/api/Todo/updateTodo": {
+      "put": {
+        "tags": [
+          "Todo"
+        ],
+        "summary": "Updates an existing Todo item.",
+        "requestBody": {
+          "description": "The request containing updated Todo details, including Id, Title, Description, Status (enum TodoManagment.Core.Helper.TodoStatus with values e.g., NotStarted, InProgress, Completed), Priority (enum TodoManagment.Core.Helper.TodoPriority with values Low, Medium, High), and optional DueDate.",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TodoUpdateRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TodoUpdateRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TodoUpdateRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Todo updated successfully.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Todo update failed."
+          }
+        }
+      }
+    },
+    "/api/Todo/deleteTodo/{id}": {
+      "delete": {
+        "tags": [
+          "Todo"
+        ],
+        "summary": "Deletes a Todo item by its ID.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "The ID of the Todo item to delete.",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Todo deleted successfully.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiResponse"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Todo not found."
+          }
+        }
+      }
+    },
+    "/api/Todo/getTodo/{id}": {
+      "get": {
+        "tags": [
+          "Todo"
+        ],
+        "summary": "Retrieves a Todo item by its ID.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "The ID of the Todo item to retrieve.",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Todo fetched successfully.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiResponse"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Todo not found."
+          }
+        }
+      }
+    },
+    "/api/Todo/getAllTodos": {
+      "get": {
+        "tags": [
+          "Todo"
+        ],
+        "summary": "Retrieves all Todo items with optional filtering and pagination.",
+        "parameters": [
+          {
+            "name": "PageIndex",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "PageSize",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "SortBy",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "SortDirection",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "DueDateFrom",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "DueDateTo",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "Status",
+            "in": "query",
+            "schema": {
+              "$ref": "#/components/schemas/TodoStatus"
+            }
+          },
+          {
+            "name": "Priority",
+            "in": "query",
+            "schema": {
+              "$ref": "#/components/schemas/TodoPriority"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Todos fetched successfully.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiResponse"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "No Todos found matching the given filters."
+          }
+        }
+      }
+    },
+    "/api/Todo/getTodosByTitle/{title}": {
+      "get": {
+        "tags": [
+          "Todo"
+        ],
+        "summary": "Retrieves all Todo items that contain the specified title text, with optional pagination.",
+        "parameters": [
+          {
+            "name": "title",
+            "in": "path",
+            "description": "The title text to search for (case-insensitive).",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "PageIndex",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "PageSize",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "SortBy",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "SortDirection",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "DueDateFrom",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "DueDateTo",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "Status",
+            "in": "query",
+            "schema": {
+              "$ref": "#/components/schemas/TodoStatus"
+            }
+          },
+          {
+            "name": "Priority",
+            "in": "query",
+            "schema": {
+              "$ref": "#/components/schemas/TodoPriority"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Todos with the specified title were fetched successfully.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiResponse"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "No Todos found with the specified title."
+          }
+        }
+      }
+    },
+    "/api/Todo/getTodosByDescription/{description}": {
+      "get": {
+        "tags": [
+          "Todo"
+        ],
+        "summary": "Retrieves all Todo items that contain the specified description text, with optional pagination.",
+        "parameters": [
+          {
+            "name": "description",
+            "in": "path",
+            "description": "The description text to search for (case-insensitive).",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "PageIndex",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "PageSize",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "SortBy",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "SortDirection",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "DueDateFrom",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "DueDateTo",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "Status",
+            "in": "query",
+            "schema": {
+              "$ref": "#/components/schemas/TodoStatus"
+            }
+          },
+          {
+            "name": "Priority",
+            "in": "query",
+            "schema": {
+              "$ref": "#/components/schemas/TodoPriority"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Todos with the specified description were fetched successfully.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiResponse"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "No Todos found with the specified description."
+          }
+        }
+      }
+    },
+    "/api/Todo/marktodoComplete/{id}": {
+      "patch": {
+        "tags": [
+          "Todo"
+        ],
+        "summary": "Marks a Todo item as complete.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "The ID of the Todo item to mark as complete.",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Todo marked as complete successfully.",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiResponse"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Failed to mark Todo as complete."
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "ApiResponse": {
+        "type": "object",
+        "properties": {
+          "message": {
+            "type": "string",
+            "nullable": true
+          },
+          "isSuccess": {
+            "type": "boolean"
+          },
+          "statusCode": {
+            "$ref": "#/components/schemas/HttpStatusCode"
+          },
+          "result": {
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "HttpStatusCode": {
+        "enum": [
+          "Continue",
+          "SwitchingProtocols",
+          "Processing",
+          "EarlyHints",
+          "OK",
+          "Created",
+          "Accepted",
+          "NonAuthoritativeInformation",
+          "NoContent",
+          "ResetContent",
+          "PartialContent",
+          "MultiStatus",
+          "AlreadyReported",
+          "IMUsed",
+          "MultipleChoices",
+          "MovedPermanently",
+          "Found",
+          "SeeOther",
+          "NotModified",
+          "UseProxy",
+          "Unused",
+          "TemporaryRedirect",
+          "PermanentRedirect",
+          "BadRequest",
+          "Unauthorized",
+          "PaymentRequired",
+          "Forbidden",
+          "NotFound",
+          "MethodNotAllowed",
+          "NotAcceptable",
+          "ProxyAuthenticationRequired",
+          "RequestTimeout",
+          "Conflict",
+          "Gone",
+          "LengthRequired",
+          "PreconditionFailed",
+          "RequestEntityTooLarge",
+          "RequestUriTooLong",
+          "UnsupportedMediaType",
+          "RequestedRangeNotSatisfiable",
+          "ExpectationFailed",
+          "MisdirectedRequest",
+          "UnprocessableEntity",
+          "Locked",
+          "FailedDependency",
+          "UpgradeRequired",
+          "PreconditionRequired",
+          "TooManyRequests",
+          "RequestHeaderFieldsTooLarge",
+          "UnavailableForLegalReasons",
+          "InternalServerError",
+          "NotImplemented",
+          "BadGateway",
+          "ServiceUnavailable",
+          "GatewayTimeout",
+          "HttpVersionNotSupported",
+          "VariantAlsoNegotiates",
+          "InsufficientStorage",
+          "LoopDetected",
+          "NotExtended",
+          "NetworkAuthenticationRequired"
+        ],
+        "type": "string"
+      },
+      "TodoAddRequest": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "priority": {
+            "$ref": "#/components/schemas/TodoPriority"
+          },
+          "dueDate": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TodoPriority": {
+        "enum": [
+          "Low",
+          "Medium",
+          "High"
+        ],
+        "type": "string"
+      },
+      "TodoStatus": {
+        "enum": [
+          "Pending",
+          "InProgress",
+          "Completed"
+        ],
+        "type": "string"
+      },
+      "TodoUpdateRequest": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "status": {
+            "$ref": "#/components/schemas/TodoStatus"
+          },
+          "priority": {
+            "$ref": "#/components/schemas/TodoPriority"
+          },
+          "dueDate": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

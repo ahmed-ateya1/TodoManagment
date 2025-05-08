@@ -1,0 +1,371 @@
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\appsettings.Development.json
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\appsettings.json
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\TodoManagment.API.staticwebassets.endpoints.json
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\TodoManagment.API.exe
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\TodoManagment.API.deps.json
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\TodoManagment.API.runtimeconfig.json
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\TodoManagment.API.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\TodoManagment.API.pdb
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\obj\Debug\net8.0\TodoManagment.API.csproj.AssemblyReference.cache
+C:\.NET Project\TodoManagment\TodoManagment.API\obj\Debug\net8.0\TodoManagment.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET Project\TodoManagment\TodoManagment.API\obj\Debug\net8.0\TodoManagment.API.AssemblyInfoInputs.cache
+C:\.NET Project\TodoManagment\TodoManagment.API\obj\Debug\net8.0\TodoManagment.API.AssemblyInfo.cs
+C:\.NET Project\TodoManagment\TodoManagment.API\obj\Debug\net8.0\TodoManagment.API.csproj.CoreCompileInputs.cache
+C:\.NET Project\TodoManagment\TodoManagment.API\obj\Debug\net8.0\TodoManagment.API.MvcApplicationPartsAssemblyInfo.cs
+C:\.NET Project\TodoManagment\TodoManagment.API\obj\Debug\net8.0\TodoManagment.API.MvcApplicationPartsAssemblyInfo.cache
+C:\.NET Project\TodoManagment\TodoManagment.API\obj\Debug\net8.0\scopedcss\bundle\TodoManagment.API.styles.css
+C:\.NET Project\TodoManagment\TodoManagment.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\.NET Project\TodoManagment\TodoManagment.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\.NET Project\TodoManagment\TodoManagment.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\.NET Project\TodoManagment\TodoManagment.API\obj\Debug\net8.0\staticwebassets\msbuild.TodoManagment.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\.NET Project\TodoManagment\TodoManagment.API\obj\Debug\net8.0\staticwebassets\msbuild.TodoManagment.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\.NET Project\TodoManagment\TodoManagment.API\obj\Debug\net8.0\staticwebassets\msbuild.build.TodoManagment.API.props
+C:\.NET Project\TodoManagment\TodoManagment.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TodoManagment.API.props
+C:\.NET Project\TodoManagment\TodoManagment.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TodoManagment.API.props
+C:\.NET Project\TodoManagment\TodoManagment.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\.NET Project\TodoManagment\TodoManagment.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\.NET Project\TodoManagment\TodoManagment.API\obj\Debug\net8.0\TodoMana.963A1F6D.Up2Date
+C:\.NET Project\TodoManagment\TodoManagment.API\obj\Debug\net8.0\TodoManagment.API.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\obj\Debug\net8.0\refint\TodoManagment.API.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\obj\Debug\net8.0\TodoManagment.API.pdb
+C:\.NET Project\TodoManagment\TodoManagment.API\obj\Debug\net8.0\TodoManagment.API.genruntimeconfig.cache
+C:\.NET Project\TodoManagment\TodoManagment.API\obj\Debug\net8.0\ref\TodoManagment.API.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Azure.Core.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\FluentValidation.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Humanizer.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Mapster.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Mapster.Core.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.ClientModel.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Text.Json.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\TodoManagment.Core.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\TodoManagment.Core.pdb
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\TodoManagment.Infrastructure.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\TodoManagment.Infrastructure.pdb
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\TodoManagment.API.staticwebassets.runtime.json
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\api.xml
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\MediatR.dll
+C:\.NET Project\TodoManagment\TodoManagment.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\appsettings.json
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\TodoManagment.API.staticwebassets.runtime.json
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\TodoManagment.API.staticwebassets.endpoints.json
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\TodoManagment.API.exe
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\TodoManagment.API.deps.json
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\TodoManagment.API.runtimeconfig.json
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\TodoManagment.API.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\TodoManagment.API.pdb
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\api.xml
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Humanizer.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Mapster.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Mapster.Core.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\MediatR.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.ClientModel.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Text.Json.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\TodoManagment.Core.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\TodoManagment.Infrastructure.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\TodoManagment.Core.pdb
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\bin\Debug\net8.0\TodoManagment.Infrastructure.pdb
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\obj\Debug\net8.0\TodoManagment.API.csproj.AssemblyReference.cache
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\obj\Debug\net8.0\TodoManagment.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\obj\Debug\net8.0\TodoManagment.API.AssemblyInfoInputs.cache
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\obj\Debug\net8.0\TodoManagment.API.AssemblyInfo.cs
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\obj\Debug\net8.0\TodoManagment.API.csproj.CoreCompileInputs.cache
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\obj\Debug\net8.0\TodoManagment.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\obj\Debug\net8.0\TodoManagment.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\obj\Debug\net8.0\TodoManagment.API.sourcelink.json
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\obj\Debug\net8.0\scopedcss\bundle\TodoManagment.API.styles.css
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\obj\Debug\net8.0\staticwebassets\msbuild.TodoManagment.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\obj\Debug\net8.0\staticwebassets\msbuild.TodoManagment.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\obj\Debug\net8.0\staticwebassets\msbuild.build.TodoManagment.API.props
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TodoManagment.API.props
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TodoManagment.API.props
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\obj\Debug\net8.0\TodoMana.963A1F6D.Up2Date
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\obj\Debug\net8.0\TodoManagment.API.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\obj\Debug\net8.0\refint\TodoManagment.API.dll
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\obj\Debug\net8.0\TodoManagment.API.pdb
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\obj\Debug\net8.0\TodoManagment.API.genruntimeconfig.cache
+C:\Todo-Managment\Backend\TodoManagment\TodoManagment.API\obj\Debug\net8.0\ref\TodoManagment.API.dll
